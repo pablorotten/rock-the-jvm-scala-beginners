@@ -1,4 +1,3 @@
-# Rock the JVM: Scala for beginners
 # Section 1: The Absolute Scala Basics
 ## 2. Values, Variables and Types
 ## 3. Expressions
