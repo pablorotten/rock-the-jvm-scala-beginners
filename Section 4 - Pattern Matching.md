@@ -1,5 +1,3 @@
-# Rock the JVM: Scala for beginners
-
 # Section 4: Pattern Matching
 
 ## Pattern Matching
