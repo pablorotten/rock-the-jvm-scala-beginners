@@ -1,5 +1,3 @@
-# Rock the JVM: Scala for beginners
-
 # Section 3: Functional Programming in Scala
 
 ## What is a Function?
