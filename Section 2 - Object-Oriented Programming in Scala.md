@@ -1,4 +1,3 @@
-# Rock the JVM: Scala for beginners
 # Section 2: Object-Oriented Programming in Scala
 ## 10. 11. Object-Oriented Basics
 ### Creating a class
