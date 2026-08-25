@@ -1,5 +1,7 @@
 package lectures.part2oop
 
+import scala.language.postfixOps
+
 object MethodNotations extends App{
 
   class Person(val name: String, favoriteMovie: String) { // created inside the object to avoid conflicts with the other Person in the same package
@@ -21,8 +23,8 @@ object MethodNotations extends App{
   println(mary.likes("Inception"))
   // this is the infix notation: More natural
   println(mary likes "Inception") // using method 'like' with parameter '"Inception"'
-  println(mary name) // getting a field
-  println(mary isAlive) // using method 'isAlive' with no parameters
+  println(mary.name) // getting a field
+  println(mary.isAlive) // using method 'isAlive' with no parameters
 
   // "Operators" in Scala
   // and operator is something that is between 2 things and yields a 3rd thing
